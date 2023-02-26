@@ -1,4 +1,4 @@
-= <projectName> Docs-Index
+= GH_Pages-AutoPublish Docs-Index
 
-== <Filename>
-xref:<fileName>.adoc[filename]
+== SomeDocument
+xref:someDocument.adoc[someDocument]
