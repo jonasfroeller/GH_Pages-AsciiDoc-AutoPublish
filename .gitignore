@@ -48,5 +48,4 @@
 **/.node_modules
 
 ### Docs/Slides ###
-dist
 docs/slides/revealjs
