@@ -1,4 +1,4 @@
-= GH_Pages-AutoPublish Docs-Index
+= GH_Pages-AutoPublish docs-index
 
-== SomeDocument
-xref:someDocument.adoc[someDocument]
+== DOC-01
+xref:doc-01.adoc[doc-01]
