@@ -1,4 +1,0 @@
-= <projectName> Docs-Index
-
-== <Filename>
-xref:<fileName>.adoc[filename]
