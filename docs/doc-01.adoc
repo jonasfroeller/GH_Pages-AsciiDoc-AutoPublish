@@ -1,0 +1,4 @@
+= GH_Pages-AutoPublish doc-01
+
+== Index
+xref:index.adoc[index]
