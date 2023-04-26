@@ -43,9 +43,11 @@
 **/.nfs*
 
 ### Dev ###
-**/.idea
-**/.vscode
-**/.node_modules
+**/*.idea
+**/*.vscode
+**/*.code-workspace
+**/*vendor
+**/*node_modules
 
 ### Docs/Slides ###
 docs/slides/revealjs
